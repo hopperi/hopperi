@@ -13,8 +13,8 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eastwesser&show_icons=true&theme=radical" alt="Dennis's GitHub stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical" alt="Top Langs" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hopperi&show_icons=true&theme=radical" alt="Dennis's GitHub stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopperi&layout=compact&theme=radical" alt="Top Langs" height="190" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical" alt="GitHub Streak" height="190" />
