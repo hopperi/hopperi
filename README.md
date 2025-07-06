@@ -8,6 +8,15 @@
 
 ---
 
+## <p align="center" style="color:#7C4DFF;">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙋𝙮𝙩𝙝𝙤𝙣 𝙇𝙚𝙖𝙧𝙣𝙚𝙧</p>
+
+<p align="center" style="max-width: 600px; margin: auto; font-style: italic;">
+  I am currently diving deep into Python, crafting Telegram bots and APIs that bring ideas to life.  
+  Always eager to learn and build practical tools, my focus is on clean, efficient code and continuous growth.
+</p>
+
+---
+
 ## <p align="center" style="color:#7C4DFF;">𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</p>
 
 <p align="center">
@@ -17,16 +26,6 @@
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=005A9E&color=007ACC" alt="VS Code" height="28" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=BD3B28&color=F05032" alt="Git" height="28" />
 </p>
-
----
-
-## <p align="center" style="color:#7C4DFF;">𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨</p>
-
-<ul>
-  <li><a href="https://github.com/hopperi/hopper"><code>hopper</code></a> — экспериментальный проект для проверки границ здравого смысла.</li>
-  <li><a href="https://github.com/hopperi/void-scripts"><code>void-scripts</code></a> — набор shell-скриптов для автоматизации хаоса.</li>
-  <li><a href="https://github.com/hopperi/dotfiles"><code>dotfiles</code></a> — мои настройки Vim, Zsh, Tmux и прочее для комфортного терминала.</li>
-</ul>
 
 ---
 
