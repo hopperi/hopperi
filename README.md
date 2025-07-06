@@ -14,11 +14,11 @@
 
 ### 🌟 Projects & Achievements
 
-- **Microservice for getting weather information using API**: A Python FastAPI microservice that retrieves weather data from external APIs and provides it efficiently.
-  - [Repository on GitHub](https://github.com/hopperi/weather_app.git)
+- **Microservice for getting weather information using API**: A Python FastAPI microservice that retrieves weather data from external APIs and provides it efficiently.  
+  [Repository on GitHub](https://github.com/hopperi/weather_app.git)
 
-- **Telegram bot for sending and spamming messages by mail**: A Python-based Telegram bot that automates sending emails, designed with aiogram.
-  - [Repository on GitHub](https://github.com/hopperi/sendmailBot.git)
+- **Telegram bot for sending and spamming messages by mail**: A Python-based Telegram bot that automates sending emails, designed with aiogram.  
+  [Repository on GitHub](https://github.com/hopperi/sendmailBot.git)
 
 ### 💬 About Me
 
@@ -29,8 +29,10 @@
 - **Email**: xyecoc1337@inbox.eu  
 - **Telegram**: [@normcheal](https://t.me/normcheal)
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hopperi&show_icons=true&theme=radical" alt="GitHub stats" height="190" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopperi&layout=compact&theme=radical" alt="Top Langs" height="190" />
 </p>
 <p align="center">
