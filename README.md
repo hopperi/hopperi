@@ -17,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopperi&layout=compact&theme=radical" alt="Top Langs" height="190" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical" alt="GitHub Streak" height="190" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hopperi&theme=radical" alt="GitHub Streak" height="190" />
 </p>
 
 ### 🔧 Technologies & Skills
